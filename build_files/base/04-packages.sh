@@ -35,6 +35,7 @@ FEDORA_PACKAGES=(
     foo2zjs
     fuse-encfs
     gcc
+    gh
     git-credential-libsecret
     glow
     gnome-tweaks
@@ -85,6 +86,7 @@ FEDORA_PACKAGES=(
     usbmuxd
     waypipe
     wireguard-tools
+    waydroid
     wl-clipboard
     xdg-terminal-exec
     xprop
