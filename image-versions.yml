@@ -3,6 +3,7 @@ images:
     image: ghcr.io/ublue-os/silverblue-main
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     tag: 44
     digest: sha256:06c4ef963b2d110f7324670da2178df067ffc0bcccc63ea7aa58ff33d483938c
 =======
@@ -12,6 +13,10 @@ images:
 =======
     tag: 44
     digest: sha256:3f6ad4ab9a152980dc71a3a729199f579b20cbb3c2d9d04e4f49cd4be2289759
+>>>>>>> upstream/main
+=======
+    tag: 44
+    digest: sha256:d8f74518fb793114d91203d39f49e6b01120830ae0dce3e7f3af57e3c494b09d
 >>>>>>> upstream/main
   - name: common
     image: ghcr.io/projectbluefin/common
