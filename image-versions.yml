@@ -10,6 +10,7 @@ images:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     tag: 44
     digest: sha256:06c4ef963b2d110f7324670da2178df067ffc0bcccc63ea7aa58ff33d483938c
 =======
@@ -47,6 +48,10 @@ images:
 =======
     tag: 44
     digest: sha256:cf5fadb32bf004cee555947d701597dcf558d74e79a5e4653d2a3f5ceb57b07c
+>>>>>>> upstream/main
+=======
+    tag: 44
+    digest: sha256:c02f1939fe41cce3b7fcf5be557c3cd25cc353a4bc4cdb704da9fc0f35a9b0f7
 >>>>>>> upstream/main
   - name: common
     image: ghcr.io/projectbluefin/common
